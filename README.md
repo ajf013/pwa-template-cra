@@ -5,8 +5,8 @@
 - Node installed [Link](https://nodejs.org/en/)
 
 - npm package installed - Command 
-            
-            ⬇️ 
+         
+     ⬇️ 
 
 -     npm install npm -g
 
